@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(to right, #4673f2, #57059e);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+.card {
+  border-radius: 1rem;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+.btn-primary {
+  background-color: #4673f2;
+  border: none;
+}
+.btn-primary:hover {
+  background-color: #3f0d96;
+}
